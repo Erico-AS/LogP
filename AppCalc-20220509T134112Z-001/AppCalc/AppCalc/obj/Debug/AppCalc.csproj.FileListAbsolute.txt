@@ -1,0 +1,22 @@
+C:\Users\erico\source\repos\AppCalc\AppCalc\bin\Debug\AppCalc.exe.config
+C:\Users\erico\source\repos\AppCalc\AppCalc\bin\Debug\AppCalc.exe
+C:\Users\erico\source\repos\AppCalc\AppCalc\bin\Debug\AppCalc.pdb
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.AssemblyReference.cache
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.FormCalc.resources
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.Properties.Resources.resources
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.GenerateResource.cache
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.CoreCompileInputs.cache
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.exe
+C:\Users\erico\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.pdb
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\bin\Debug\AppCalc.exe.config
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\bin\Debug\AppCalc.exe
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\bin\Debug\AppCalc.pdb
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.FormCalc.resources
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.exe
+H:\Visual Studio 2022\Projects\AppCalc-20220509T134112Z-001\AppCalc\AppCalc\obj\Debug\AppCalc.pdb
